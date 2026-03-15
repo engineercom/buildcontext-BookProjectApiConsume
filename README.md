@@ -16,6 +16,7 @@ Asp.Net Core WebUI -.NET 9
 Teknoloji
 -------------
 IHttpClientFactory kullandık.
+
 Youtube Tutorial:
 ------------------------
 https://www.youtube.com/watch?v=bYvCsv4Dw2I&list=PLyrYiZVYNWEHUrGAutrDMIlhwpQjp8JBW
